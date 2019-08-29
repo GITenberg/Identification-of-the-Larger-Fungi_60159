@@ -1,0 +1,31 @@
+_repo: Identification-of-the-Larger-Fungi_60159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watling, Roy
+    alias: Watling, R. (Roy)
+    birthdate: 1938
+    gutenberg_agent_id: '49300'
+    url: http://www.gutenberg.org/2009/agents/49300
+    wikipedia: https://en.wikipedia.org/wiki/Roy_Watling
+  editor:
+    agent_name: Kenney, Antony
+    gutenberg_agent_id: '50822'
+    url: http://www.gutenberg.org/2009/agents/50822
+description: ''
+gutenberg_issued: '2019-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60159'
+  lccn: '74195816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mushrooms -- Identification'
+- !lcc 'QK'
+- !lcsh 'Fungi -- Great Britain -- Identification'
+- GITenberg
+title: Identification of the Larger Fungi
+url: http://www.gutenberg.org/ebooks/60159
